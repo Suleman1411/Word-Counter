@@ -30,13 +30,13 @@ A simple command-line tool to count the number of words in a sentence, implement
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/word-count-sentence.git
+   git clone https://github.com/Suleman1411/word-counter-cli
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd word-count-sentence
+   cd word-counter-cli
    ```
 
 3. Install the required dependencies:
@@ -69,6 +69,3 @@ Contributions are welcome! If you'd like to improve the project or report issues
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace `"your-username"` with your actual GitHub username and adjust any other details as needed. This README provides a clear structure for users to understand your project, how to set it up, and how to use it.
